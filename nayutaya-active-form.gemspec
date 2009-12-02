@@ -21,6 +21,8 @@ Gem::Specification.new do |s|
 
   s.files = [
     "lib/active_form.rb",
+    "lib/nayutaya-active-form.rb",
+    "rails/init.rb",
     "test/active_form_test.rb",
     "MIT-LICENSE",
     "README",
